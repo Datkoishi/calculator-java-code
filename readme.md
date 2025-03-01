@@ -164,7 +164,7 @@ Chương trình xử lý các trường hợp lỗi sau:
 
 ## Tác giả
 
-Trương Công Đạt
+Trương Đạt
 
 ## Phiên bản
 
