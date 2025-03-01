@@ -5,22 +5,13 @@ Một ứng dụng máy tính hiện đại được xây dựng bằng Java Swi
 ## Ảnh minh họa
 
 ### Giao diện chính
-
-
-
-
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202025-03-02%20lu%CC%81c%2003.40.06-iCcpNSo1QwAmCfIjS3nUbCJlVX809i.png" alt="Calculator Main" width="320"/>
 
 ### Thực hiện phép tính
-
-
-
-
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202025-03-02%20lu%CC%81c%2003.40.38-9IlHZOk0v4UTU83dWGC4atvnOh10rL.png" alt="Calculator Operation" width="320"/>
 
 ### Phép tính nâng cao (Căn bậc hai)
-
-
-
-
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202025-03-02%20lu%CC%81c%2003.40.52-Aly3RM1d8AV8hH6LwBJeJBEkqOrVOK.png" alt="Calculator Square Root" width="320"/>
 
 ## Tính năng
 
